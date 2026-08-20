@@ -23,5 +23,39 @@ FFCC; width: 50%;">
 
 <br/>
 
-## 🤖 `whoami`
+## 🤖 `Whoami`
+
+Sou estudante de Engenharia da Computação e Bacharelado em Inteligência Artificial, construindo minha trajetória com foco em Cybersecurity, Inteligência Artificial, infraestrutura, sistemas e tecnologia aplicada.
+
+Meu objetivo é combinar engenharia, segurança e IA para desenvolver soluções capazes de resolver problemas reais — especialmente aqueles relacionados a ambientes educacionais, infraestrutura tecnológica e proteção de sistemas.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+```text
+┌─ CYBERSECURITY
+│  ├── Network Security
+│  ├── Vulnerability Assessment
+│  ├── Linux
+│  ├── CTF / Offensive Security
+│  └── Security Automation
+│
+├─ ARTIFICIAL INTELLIGENCE
+│  ├── Machine Learning
+│  ├── Generative AI
+│  ├── AI Applications
+│  └── AI + Cybersecurity
+│
+└─ ENGINEERING
+   ├── Programming
+   ├── Databases
+   ├── Networks
+   ├── Systems
+   └── Infrastructure
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/Power_BI-050505?style=for-the-badge&logo=powerbi&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/SQL_Server-050505?style=for-the-badge&logo=microsoftsqlserver&logoColor=00f7ff"/> <img src="https://img.shields.io/badge/Obsidian-050505?style=for-the-badge&logo=obsidian&logoColor=00f7ff"/>
+
+</div>
 
