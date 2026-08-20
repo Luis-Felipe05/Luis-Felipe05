@@ -59,3 +59,10 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 </div>
 
+<br/>
+
+## 🐍 `Contribution Snake`
+<div align="center"> <img src="https://raw.githubusercontent.com/Luis-Felipe05/Luis-Felipe05/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div> <br/>
+
+
+
