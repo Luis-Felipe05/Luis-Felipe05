@@ -62,7 +62,12 @@ Atualmente estou aprofundando meus conhecimentos em:
 <br/>
 
 ## 🐍 `Contribution Snake`
-<div align="center"> <img src="https://raw.githubusercontent.com/Luis-Felipe05/Luis-Felipe05/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div> <br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luis-Felipe05/Luis-Felipe05/output/github-contribution-grid-snake-dark.svg?v=1#gh-dark-mode-only" alt="Snake Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Luis-Felipe05/Luis-Felipe05/output/github-contribution-grid-snake.svg?v=1#gh-light-mode-only" alt="Snake Light" width="100%" />
+</div>
+
 
 
 
